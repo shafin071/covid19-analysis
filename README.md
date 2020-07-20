@@ -10,7 +10,7 @@ The analysis notebook consists of 5 segments:
 4. Accuracy of Confirmed Cases Forecast
 5. Update on Confirmed Cases Forecast (as of April 27th, 2020)
 
-As of April 27th 2020, the model gave a forecast for confirmed cases in South Korea with a  Mean Avwerage Percentage Error (MAPE) of 5.33% 
+As of April 27th 2020, the model gave a forecast for confirmed cases in South Korea with a **Mean Average Percentage Error (MAPE) of 5.33% **
 
 
 ### NOTE: 
