@@ -13,5 +13,15 @@ The analysis notebook consists of 5 segments:
 As of April 27th 2020, the model gave a forecast for confirmed cases in South Korea with a  Mean Avwerage Percentage Error (MAPE) of 5.33% 
 
 
+### Resources used for this project:
+* [South Korea's COVID-19 dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+* Python v3
+* Pandas
+* Scipy
+* Plotly
+* Mapbox API
+* Statsmodels
+
+
 
 
