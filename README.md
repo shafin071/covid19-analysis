@@ -19,6 +19,7 @@ The analysis was first done around end on February 2020, when the dataset was fi
 
 ### Resources used for this project:
 * [South Korea's COVID-19 dataset](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+* Jupyter Notebook
 * Python v3
 * Pandas
 * Scipy
