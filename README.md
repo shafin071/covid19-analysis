@@ -1,2 +1,3 @@
-# covid19-analysis
-Data visualization and forecast on S. Korea COVID-19 dataset 
+# COVID-19 Data Analysis
+
+Exploratory Data Analysis and Time-Series Forecast on South Korea's COVID-19 dataset
