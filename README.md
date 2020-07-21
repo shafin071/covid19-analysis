@@ -1,4 +1,5 @@
 # COVID-19 Data Analysis
+See [HTML version](https://shafin071.github.io/covid19-analysis/) of notebook to see all the visualizations 
 
 ## Situation:
 A dataset was released for South Korea COVID-19 cases back in February 2020. This was one of the first pandemic related dataset released on Kaggle
